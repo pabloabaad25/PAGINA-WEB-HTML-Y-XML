@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lineup>
+    <titulo>ELECTRO EVENTS</titulo>
+    <artistas>
+        <artista id="davidguetta">
+            <nombre>David Guetta</nombre>
+            <genero>Dance Pop / House</genero>
+        </artista>
+        <artista id="alanwalker">
+            <nombre>Alan Walker</nombre>
+            <genero>Electro House</genero>
+        <artista id="dimitrivergas-likemike">
+            <nombre>Dimitri Vegas and Like Mike</nombre>  
+            <genero>Big Room House</genero>
+    </artistas>
+</lineup>
